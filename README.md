@@ -34,7 +34,7 @@ ___Correr en consola con permisos de Administrador.___
   * __Clic derecho en la barra de tareas y luego clic en _"Administrador de tareas"_.__
   * __Ejecutar directamente el ejecutable en la ruta: _'C:/Windows/System32/taskmgr.exe'_.__
   * __Colocar la ruta  _'C:/Windows/System32/taskmgr.exe'_ directamente en la barra de direcciones del explorador de Windows.__
-    * __El explorador de Windows se puede abrir presionando _'Ctrl + E'_.__
+    * __El explorador de Windows se puede abrir presionando _'Win + E'_.__
   * __Abrir ventana de comandos (Shell) cmd y escribir _'taskmgr'_ y presionar _'Enter'_.__
 
 - - -
