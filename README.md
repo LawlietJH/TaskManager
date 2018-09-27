@@ -1,7 +1,8 @@
-# TaskManager
+# TaskManager v1.2.0
 ## Deshabilita o Habilita el Administrador de Tareas de Windows.
-## Versión: Python 3.
-## OS: Windows.
+## Versión: Python 3
+## OS: Windows
+## By: LawlietJH
 
 - - -
 
@@ -11,8 +12,8 @@ ___Correr en consola con permisos de Administrador.___
 
 - - -
 ## Modo de Uso:
-
-    python _TaskManager.py_ [ -e | -d ] | [-h]
+    
+    python  TaskManager.py  [ -e | -d ] | [-h]
     
     
     -h, --help          Muestra el Modo de Uso.
