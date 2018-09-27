@@ -154,7 +154,7 @@ if __name__ == "__main__":
 	# la opcion "--enable" si lo deseas.
 	
 	# Tambien lo puedes comprobar presonando 'Ctrl + Alt + Supr'
-	# (En ocaciones se llama 'Del' la tecla, en luegas de 'Supr'),
+	# (En ocaciones se llama 'Del' la tecla en lugar de 'Supr'),
 	# ahí debe aparecer tambien la opcion de "Administrador de Tareas",
 	# si no aparece, habrá que habilitarlo con la opcion "--enable".
 	
