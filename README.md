@@ -6,12 +6,13 @@
 
 - - -
 
-## Requerimentos:
+### Requerimientos:
 
 ___Correr en consola con permisos de Administrador.___
 
 - - -
-## Modo de Uso:
+
+### Modo de Uso:
     
     python  TaskManager.py  [ -e | -d ] | [-h]
     
@@ -46,8 +47,11 @@ __Si alguno de estos métodos no funciona, debe ser porque el Administrador de t
 
 ### Capturas:
 
+__TaskManager.py -h__
 ![TaskManager_h](capturas/TaskManager_h.png "TaskManager.py -h")
 
+__TaskManager.py -d__
 ![TaskManager_d](capturas/TaskManager_d.png "TaskManager.py -d")
 
+__TaskManager.py -e__
 ![TaskManager_e](capturas/TaskManager_e.png "TaskManager.py -e")
