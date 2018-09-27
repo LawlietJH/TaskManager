@@ -139,7 +139,7 @@ if __name__ == "__main__":
 			
 		else: print("\n\n\t Requiere un Solo Parametro:\n" + ModoDeUso)
 		
-	else: print("\n\n\t [!] Necesitas Permisos de Administrador.")
+	else: print("\n\n\t [!] Necesitas Permisos de Administrador.\n")
 	
 	
 	#===================================================================
