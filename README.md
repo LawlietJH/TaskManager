@@ -46,8 +46,8 @@ __Si alguno de estos métodos no funciona, debe ser porque el Administrador de t
 
 ### Capturas:
 
-![TM_h](capturas/TaskManager.py -h.png "TM-h")
+![TaskManager.py -h](capturas/TaskManager.py -h.png "TaskManager.py -h")
 
-![TM_d](capturas/TaskManager.py -d.png "TM-d")
+![TaskManager.py -d](capturas/TaskManager.py -d.png "TaskManager.py -d")
 
-![TM_e](capturas/TaskManager.py -e.png "TM-e")
+![TaskManager.py -e](capturas/TaskManager.py -e.png "TaskManager.py -e")
