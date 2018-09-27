@@ -39,4 +39,15 @@ ___Correr en consola con permisos de Administrador.___
 
 - - -
 
+### Nota:
 __Si alguno de estos métodos no funciona, debe ser porque el Administrador de tareas debe estar deshabilitado, si es así, ejecuta este Script desde una ventana de comandos cmd (con permisos de administrador) con el comando _python TaskManager.py --enable_ para habilitarlo.__
+
+- - -
+
+### Capturas:
+
+![TM_h](capturas/TaskManager.py -h.png "TM-h")
+
+![TM_d](capturas/TaskManager.py -d.png "TM-d")
+
+![TM_e](capturas/TaskManager.py -e.png "TM-e")
